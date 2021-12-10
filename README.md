@@ -1,8 +1,8 @@
 # BusCam
 The android check in application. This repository is consist of Frontend and Backend parts.
-### Frontend ###
+## Frontend ##
  It developed with react native.
-### Backend ###
+## Backend ##
  It developed with node.js (express.js). It's intermediary that connects client (Frontend) to MongoDB and Google Cloud Storage. It's deployed on Google Cloud Run and used Cloud Scheduler to reduce latency.
 
 # Functions
