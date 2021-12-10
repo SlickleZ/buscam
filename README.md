@@ -11,11 +11,11 @@ The android check in application. This repository is consist of Frontend and Bac
   * Upload & Delete object in Google Cloud Storage.
 
 # Preview
- <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_logIn.jpg?raw=true">
- <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_pin.jpg?raw=true">
- <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_home.jpg?raw=true">
- <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_find.jpg?raw=true">
- <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_check.jpg?raw=true">
+ <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_logIn.jpg?raw=true" style="display: inline-block;">
+ <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_pin.jpg?raw=true" style="display: inline-block;">
+ <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_home.jpg?raw=true" style="display: inline-block;">
+ <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_find.jpg?raw=true" style="display: inline-block;">
+ <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_check.jpg?raw=true" style="display: inline-block;">
 
 # Authors
   * Kitikorn Phaopun
