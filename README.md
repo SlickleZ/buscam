@@ -16,6 +16,7 @@ The android check in application. This repository is consist of Frontend and Bac
  <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_home.jpg?raw=true" align="left">
  <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_find.jpg?raw=true" align="left">
  <img height="300rem" src="https://github.com/SlickleZ/buscam/blob/main/preview_check.jpg?raw=true" align="left">
+ <br>
 
 # Authors
   * Kitikorn Phaopun
