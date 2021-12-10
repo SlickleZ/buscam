@@ -10,6 +10,11 @@ The android check in application. This repository is consist of Frontend and Bac
   * Secure backend with api key.
   * Upload & Delete object in Google Cloud Storage.
 
+# Preview
+ <video height="220rem">
+  <source src="https://github.com/SlickleZ/buscam/blob/main/video_preview.mp4?raw=true" type="video/mp4">
+ </video>
+
 # Authors
   * Kitikorn Phaopun
   * Peerapat Sukkasem
